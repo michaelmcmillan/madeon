@@ -1,0 +1,189 @@
+body {
+  background-color: #F2F2F2;
+  font-family: Roboto,sans-serif;
+  font-weight: lighter;
+}
+
+#header-bottom-right {
+  bottom: -34px;
+  line-height: 38px;
+  background-color: transparent;
+}
+
+#header-bottom-right .userkarma {
+  border: none;
+}
+
+#header-img.default-header {
+  position: absolute;
+  bottom: 20px;
+  background: url(%%Madeon-Snoo2%%) no-repeat;
+  height: 100px;
+  width: 120px;
+}
+
+#header a {
+  background-color: transparent;
+  border: 0px;
+  border-radius: 0px;
+  color: #BFBFBF;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+#header {
+  background-color: #E1E1E1;
+  border: none;
+}
+
+#header .tabmenu {
+  position: absolute;
+  bottom: -40px;
+  left: 0px;
+  width: 100%;
+  border: none;
+  margin: 0px;
+  background-color: #F2F2F2;
+  border-bottom: #E1E1E1 5px solid;
+}
+
+#header .tabmenu li {
+  font-weight: bold;
+  margin: 15px 0px 15px 0px;
+}
+
+#header .tabmenu li a {
+  display: inline-block;
+  margin: 0px 4px;
+  padding: 20px 16px;
+}
+
+#sr-header-area a {
+  background-color: transparent;
+  color: #949494;
+}
+
+#sr-header-area {
+  height: 257px;
+  background: #030406 url(%%Header-2480%%) right no-repeat;
+  background-size: auto 257px;
+}
+
+.pagename {
+  position: absolute;
+  top: 230px;
+  left: 84px;
+}
+
+.content {
+  margin: 0;
+}
+
+.sitetable {
+  margin-right: 320px;
+  margin-top: 40px;
+}
+
+.content .thing {
+  padding: 6px 0px 6px 0px;
+  margin: 0px 0px 10px 0px;
+  background-color: #FFFFFF;
+  border-bottom: 3px solid #D7D7D7;
+  border-right: 2px solid #D7D7D7;
+}
+
+.link .title {
+  font-size: 19px;
+  font-weight: lighter;
+  color: #919191;
+  margin-bottom: 14px;
+}
+
+.link .rank {
+  margin-top: 35px;
+  margin-left: 9px;
+}
+
+.tagline {
+  color: #CFCFCF;
+  margin-top: 8px;
+  font-size: 11.5px;
+}
+
+.link .flat-list {
+  margin-top: 4px;
+}
+
+.entry {
+  margin-left: 10px;
+  margin-top: 6px;
+}
+
+.entry .buttons li {
+  font-size: 11px;
+}
+
+.thing .midcol {
+}
+
+a:link {
+  color: #818181;
+}
+
+.thing .title:visited, .thing.visited .title {
+  color: #5A5A5A;
+}
+
+.arrow.upmod {
+  background-image: url(%%upvote-active%%);
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.arrow.up {
+  background-image: url(%%upvote-inactive%%);
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.arrow.downmod {
+  background-image: url(%%downvote-active%%);
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.arrow.down {
+  background-image: url(%%downvote-inactive%%);
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.arrow {
+  height: 23px;
+  width: 33px;
+  margin: 5px 5px 5px 5px;
+}
+
+.midcol {
+  overflow: initial;
+  margin-right: 25px;
+  margin-left: 3px;
+}
+
+.link .score {
+  margin-left: 15px;
+  font-size: 19px;
+}
+
+.side {
+  margin: 40px 5px 0 5px;
+}
+
+a:hover {
+  color: a3a3a3;
+}
+
+a:active {
+  color: 6d6d6d;
+}
